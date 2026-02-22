@@ -27,4 +27,14 @@
 
 ---
 
+### Diego Phelipe Morales Aldana
+
+- Me gustaría trabajar en el análisis y desarrollo de soluciones basadas en datos, participando en la lógica del sistema y en la implementación de herramientas para procesar y analizar información.
+
+- Tengo buena capacidad analítica, formación en estadística y experiencia en programación para análisis de datos. También suelo organizar los problemas y documentar bien lo que hago.
+
+- Debo mejorar en comunicación dentro del equipo, manejo del tiempo en proyectos colaborativos y uso de herramientas de trabajo en equipo.
+
+---
+
 ## Pregunta 2
