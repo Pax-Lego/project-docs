@@ -1,7 +1,30 @@
 # Assignment 03
 
 ## Pregunta 1
+### Juan Garzon
 
-### Sergio Andrés Ramírez Céspedes
- Me gustaría desempeñar distintos roles dentro de un equipo de software, ya que todos me resultan interesantes y considero que cada uno aporta aprendizajes valiosos al proceso de desarrollo. Sin embargo, siento una mayor afinidad por el rol de organización y facilitación, ya que disfruto estructurar el trabajo, coordinar tareas y ayudar a que el equipo tenga claridad sobre los objetivos y el camino a seguir durante el proyecto.
+ - Por ahora es dificil de responder, deberia experimentar cada uno de esos roles para ver cual realmente disfruto y se siente adecuado para mi, hasta ahora casi siempre me dedico al desarrollo directamente, pero no ha habido mucha organizacion y distribucion de roles en mis proyectos hasta ahora
 
+ - Soy bueno trabajando en equipo, buscando soluciones y comunicandome, con respecto a habilidades tecnicas tengo experiencia principalmente en C, C++ y python.
+
+ - Debo mejorar en su mayoria manejo del tiempo, no me es tan facil estimar y organizar el tiempo para diversas actividades
+
+### Julian Melo
+
+ - Me gustaría tener un rol de desarrollo Backend, dedicado a la base misma del código del proyecto.
+
+ - Puedo aportar una amplia dedicación al coding del proyecto, en pos de generar código limpio y eficiente.
+
+ - Carezco de experiencia en coding colectivo y colaborativo, por tanto en organización, pedir ayuda y dar feedback.
+
+
+### Sergio Ramírez
+ Me gustaría desempeñar distintos roles dentro de un equipo de software, ya que todos me resultan interesantes y considero que
+ cada uno aporta aprendizajes valiosos al proceso de desarrollo. Sin embargo, siento una mayor afinidad por el rol de organización
+ y facilitación, ya que disfruto estructurar el trabajo, coordinar tareas y ayudar a que el equipo tenga claridad sobre los
+ objetivos y el camino a seguir durante el proyecto.
+
+
+---
+
+## Pregunta 2
