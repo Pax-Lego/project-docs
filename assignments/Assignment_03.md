@@ -10,6 +10,15 @@
 
  - Debo mejorar en su mayoria manejo del tiempo, no me es tan facil estimar y organizar el tiempo para diversas actividades
 
+### Julian Melo
+
+ - Me gustaría tener un rol de desarrollo Backend, dedicado a la base misma del código del proyecto.
+
+ - Puedo aportar una amplia dedicación al coding del proyecto, en pos de generar código limpio y eficiente.
+
+ - Carezco de experiencia en coding colectivo y colaborativo, por tanto en organización, pedir ayuda y dar feedback.
+
+
 ---
 
 ## Pregunta 2
