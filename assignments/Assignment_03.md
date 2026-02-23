@@ -44,17 +44,20 @@ Pienso que debo mejorar principalmente mi manejo del tiempo, ya que en ocasiones
 
 ## Pregunta 2
 
-### Compromisos del grupo para el semestre
+### Compromisos del grupo Pax-Lego para el semestre 2026-1 en Ingeniería de Software:
 
- Uso del tablero: Usaremos un tablero Kanban para organizar el trabajo. Las tareas se crearán como tarjetas y se moverán entre columnas como Pendiente, En progreso y Terminado. Cada integrante será responsable de actualizar el estado de sus tareas para que todos puedan ver el avance del proyecto.
+- Uso del tablero: Usaremos un tablero Kanban para organizar el trabajo. Las tareas se crearán como tarjetas y se moverán entre columnas como Pendiente, En progreso y Terminado. Cada integrante será responsable de actualizar el estado de sus tareas para que todos puedan ver el avance del proyecto.
 
- Frecuencia de reuniones: Tendremos al menos una reunión semanal para revisar el progreso del proyecto, resolver dudas y coordinar las siguientes tareas.
+- Frecuencia de reuniones: Tendremos al menos una reunión semanal para revisar el progreso del proyecto, resolver dudas y coordinar las siguientes tareas.
 
-- Acuerdos sobre como se tomaran decisiones en el equipo:
-Depende de la decision, si la decision involucra el proyecto en su totalidad, o si puede que afecte las demas partes de los integrantes se debera comentar la situacion con el grupo para asi tomar una decision en conjunto, sin embargo decisiones menores como de diseño o estetica se podran tomar individualmente
-- Compromisos sobre avisar cuando alguien no pueda cumplir una tarea:
-Si el cumplimiento de la tarea dentro de las fechas acordadas se imposibilita, se debera avisar lo mas pronto posible para asi evaluar como repartir la tarea entre los demas miembros o poner una nueva fecha para la realizacion de la tarea.
+- Acuerdos sobre como se tomaran decisiones en el equipo: Depende de la decision, si la decision involucra el proyecto en su totalidad, o si puede que afecte las demas partes de los integrantes se debera comentar la situacion con el grupo para asi tomar una decision en conjunto, sin embargo decisiones menores como de diseño o estetica se podran tomar individualmente
 
-Cada miembro se maneja en ramas independientes principalmente, manteniendo convenciones de estilo y documentación.
-Para consolidar hitos se combinan ramas individuales en ramas de prueba tras reunion de revision por pares y mutuo acuerdo.
-Los cambios en la rama principal se realizan en presencia de todos los miembros en reunión, previa revisión del docente de la rama de prueba.
+- Compromisos sobre avisar cuando alguien no pueda cumplir una tarea: Si el cumplimiento de la tarea dentro de las fechas acordadas se imposibilita, se debera avisar lo mas pronto posible para asi evaluar como repartir la tarea entre los demas miembros o poner una nueva fecha para la realizacion de la tarea.
+
+- Acuerdos sobre como se tomaran decisiones en el equipo: Depende de la decision, si la decision involucra el proyecto en su totalidad, o si puede que afecte las demas partes de los integrantes se debera comentar la situacion con el grupo para asi tomar una decision en conjunto, sin embargo decisiones menores como de diseño o estetica se podran tomar individualmente
+
+- Cada miembro se maneja en ramas independientes principalmente, manteniendo convenciones de estilo y documentación.
+
+- Para consolidar hitos se combinan ramas individuales en ramas de prueba tras reunion de revision por pares y mutuo acuerdo.
+
+- Los cambios en la rama principal se realizan en presencia de todos los miembros en reunión, previa revisión del docente de la rama de prueba.
