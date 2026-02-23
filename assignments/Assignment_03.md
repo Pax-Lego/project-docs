@@ -10,6 +10,7 @@
 
 - Debo mejorar en su mayoria manejo del tiempo, no me es tan facil estimar y organizar el tiempo para diversas actividades
 
+
 ### Julian Melo
 
 - Me gustaría tener un rol de desarrollo Backend, dedicado a la base misma del código del proyecto.
@@ -18,14 +19,18 @@
 
 - Carezco de experiencia en coding colectivo y colaborativo, por tanto en organización, pedir ayuda y dar feedback.
 
+
 ### Sergio Ramírez
 
- Me gustaría desempeñar distintos roles dentro de un equipo de software, ya que todos me resultan interesantes y considero que
- cada uno aporta aprendizajes valiosos al proceso de desarrollo. Sin embargo, siento una mayor afinidad por el rol de organización
- y facilitación, ya que disfruto estructurar el trabajo, coordinar tareas y ayudar a que el equipo tenga claridad sobre los
- objetivos y el camino a seguir durante el proyecto.
+Me gustaría desempeñar distintos roles dentro de un equipo de software, ya que todos me resultan interesantes y considero que
+cada uno aporta aprendizajes valiosos al proceso de desarrollo. Sin embargo, siento una mayor afinidad por el rol de organización
+y facilitación, ya que disfruto estructurar el trabajo, coordinar tareas y ayudar a que el equipo tenga claridad sobre los
+objetivos y el camino a seguir durante el proyecto.
 
----
+Considero que una de mis principales fortalezas es mi capacidad de escuchar a los demás antes de expresar mi propia opinión, lo que facilita la comprensión de distintas perspectivas dentro del equipo. Además, me gusta mantener el orden y la planificación en las actividades de un proyecto, organizando las tareas de manera clara para que el equipo tenga una visión definida del proceso y de los objetivos a alcanzar.
+
+Pienso que debo mejorar principalmente mi manejo del tiempo, ya que en ocasiones tiendo a procrastinar algunas actividades, ya sea por priorizar otras responsabilidades o por falta de motivación momentánea. Fortalecer esta habilidad me permitiría ser más constante, cumplir los tiempos establecidos y aportar de manera aún más eficiente al trabajo en equipo.
+
 
 ### Diego Phelipe Morales Aldana
 
@@ -44,6 +49,8 @@
 - Uso del tablero: Usaremos un tablero Kanban para organizar el trabajo. Las tareas se crearán como tarjetas y se moverán entre columnas como Pendiente, En progreso y Terminado. Cada integrante será responsable de actualizar el estado de sus tareas para que todos puedan ver el avance del proyecto.
 
 - Frecuencia de reuniones: Tendremos al menos una reunión semanal para revisar el progreso del proyecto, resolver dudas y coordinar las siguientes tareas.
+
+- Acuerdos sobre como se tomaran decisiones en el equipo: Depende de la decision, si la decision involucra el proyecto en su totalidad, o si puede que afecte las demas partes de los integrantes se debera comentar la situacion con el grupo para asi tomar una decision en conjunto, sin embargo decisiones menores como de diseño o estetica se podran tomar individualmente
 
 - Compromisos sobre avisar cuando alguien no pueda cumplir una tarea: Si el cumplimiento de la tarea dentro de las fechas acordadas se imposibilita, se debera avisar lo mas pronto posible para asi evaluar como repartir la tarea entre los demas miembros o poner una nueva fecha para la realizacion de la tarea.
 
