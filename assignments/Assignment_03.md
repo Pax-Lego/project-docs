@@ -45,10 +45,10 @@
 
  Frecuencia de reuniones: Tendremos al menos una reunión semanal para revisar el progreso del proyecto, resolver dudas y coordinar las siguientes tareas.
 
-- Compromisos sobre avisar cuando alguien no pueda cumplir una tarea:
-Si el cumplimiento de la tarea dentro de las fechas acordadas se imposibilita, se debera avisar lo mas pronto posible para asi evaluar como repartir la tarea entre los demas miembros o poner una nueva fecha para la realizacion de la tarea.
 - Acuerdos sobre como se tomaran decisiones en el equipo:
 Depende de la decision, si la decision involucra el proyecto en su totalidad, o si puede que afecte las demas partes de los integrantes se debera comentar la situacion con el grupo para asi tomar una decision en conjunto, sin embargo decisiones menores como de diseño o estetica se podran tomar individualmente
+- Compromisos sobre avisar cuando alguien no pueda cumplir una tarea:
+Si el cumplimiento de la tarea dentro de las fechas acordadas se imposibilita, se debera avisar lo mas pronto posible para asi evaluar como repartir la tarea entre los demas miembros o poner una nueva fecha para la realizacion de la tarea.
 
 Cada miembro se maneja en ramas independientes principalmente, manteniendo convenciones de estilo y documentación.
 Para consolidar hitos se combinan ramas individuales en ramas de prueba tras reunion de revision por pares y mutuo acuerdo.
