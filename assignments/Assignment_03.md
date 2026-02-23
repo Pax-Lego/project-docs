@@ -48,7 +48,7 @@ Pienso que debo mejorar principalmente mi manejo del tiempo, ya que en ocasiones
 
 - Uso del tablero: Usaremos un tablero Kanban para organizar el trabajo. Las tareas se crearán como tarjetas y se moverán entre columnas como Pendiente, En progreso y Terminado. Cada integrante será responsable de actualizar el estado de sus tareas para que todos puedan ver el avance del proyecto.
 
-- Frecuencia de reuniones: Tendremos al menos una reunión semanal para revisar el progreso del proyecto, resolver dudas y coordinar las siguientes tareas.
+- Frecuencia de reuniones: Tendremos al menos una reunión semanal para revisar el progreso del proyecto, resolver dudas y coordinar las siguientes tareas. Además de discutir el proyecto en clases.
 
 - Acuerdos sobre como se tomaran decisiones en el equipo: Depende de la decision, si la decision involucra el proyecto en su totalidad, o si puede que afecte las demas partes de los integrantes se debera comentar la situacion con el grupo para asi tomar una decision en conjunto, sin embargo decisiones menores como de diseño o estetica se podran tomar individualmente
 
