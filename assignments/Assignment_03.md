@@ -46,6 +46,8 @@ Pienso que debo mejorar principalmente mi manejo del tiempo, ya que en ocasiones
 
 ### Compromisos del grupo Pax-Lego para el semestre 2026-1 en Ingeniería de Software:
 
+-  Integraremos 2 metodologías ágiles: Kanban principalmente para la gestión de tareas cortas y scrum para el desarrollo más estructural del proyecto
+
 - Uso del tablero: Usaremos un tablero Kanban para organizar el trabajo. Las tareas se crearán como tarjetas y se moverán entre columnas como Pendiente, En progreso y Terminado. Cada integrante será responsable de actualizar el estado de sus tareas para que todos puedan ver el avance del proyecto.
 
 - Frecuencia de reuniones: Tendremos al menos una reunión semanal para revisar el progreso del proyecto, resolver dudas y coordinar las siguientes tareas.
