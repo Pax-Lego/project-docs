@@ -22,14 +22,14 @@
 
 ### Sergio Ramírez
 
-Me gustaría desempeñar distintos roles dentro de un equipo de software, ya que todos me resultan interesantes y considero que
-cada uno aporta aprendizajes valiosos al proceso de desarrollo. Sin embargo, siento una mayor afinidad por el rol de organización
-y facilitación, ya que disfruto estructurar el trabajo, coordinar tareas y ayudar a que el equipo tenga claridad sobre los
-objetivos y el camino a seguir durante el proyecto.
+- Me gustaría desempeñar distintos roles dentro de un equipo de software, ya que todos me resultan interesantes y considero que
+  cada uno aporta aprendizajes valiosos al proceso de desarrollo. Sin embargo, siento una mayor afinidad por el rol de organización
+  y facilitación, ya que disfruto estructurar el trabajo, coordinar tareas y ayudar a que el equipo tenga claridad sobre los
+  objetivos y el camino a seguir durante el proyecto.
 
-Considero que una de mis principales fortalezas es mi capacidad de escuchar a los demás antes de expresar mi propia opinión, lo que facilita la comprensión de distintas perspectivas dentro del equipo. Además, me gusta mantener el orden y la planificación en las actividades de un proyecto, organizando las tareas de manera clara para que el equipo tenga una visión definida del proceso y de los objetivos a alcanzar.
+- Considero que una de mis principales fortalezas es mi capacidad de escuchar a los demás antes de expresar mi propia opinión, lo que facilita la    comprensión de distintas perspectivas dentro del equipo. Además, me gusta mantener el orden y la planificación en las actividades de un            proyecto, organizando las tareas de manera clara para que el equipo tenga una visión definida del proceso y de los objetivos a alcanzar.
 
-Pienso que debo mejorar principalmente mi manejo del tiempo, ya que en ocasiones tiendo a procrastinar algunas actividades, ya sea por priorizar otras responsabilidades o por falta de motivación momentánea. Fortalecer esta habilidad me permitiría ser más constante, cumplir los tiempos establecidos y aportar de manera aún más eficiente al trabajo en equipo.
+- Pienso que debo mejorar principalmente mi manejo del tiempo, ya que en ocasiones tiendo a procrastinar algunas actividades, ya sea por priorizar   otras responsabilidades o por falta de motivación momentánea. Fortalecer esta habilidad me permitiría ser más constante, cumplir los tiempos       establecidos y aportar de manera aún más eficiente al trabajo en equipo.
 
 
 ### Diego Phelipe Morales Aldana
