@@ -1,11 +1,8 @@
 # 🍽️ Pax-Saporis
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Osias_Beert_-_Oysters_1610.jpg" width="360"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Vanlig_padda_-_Bufo_bufo.jpg" width="360"/>
-</p>
-
+  <img src="Documentation/logo.jgep" width="360"/>
+  &nbsp
 <p align="center">
   <strong>Descubre, crea y comparte recetas deliciosas.</strong><br>
   Una plataforma para explorar nuevas comidas, organizar planes de alimentación y compartir experiencias culinarias.
