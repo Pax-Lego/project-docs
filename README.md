@@ -1,7 +1,7 @@
 # 🍽️ Pax-Saporis
 
 <p align="center">
-  <img src="Documentation/logo.jgep" width="360"/>
+  <img src="Documentation/logo.jpeg" width="500"/>
   &nbsp
 <p align="center">
   <strong>Descubre, crea y comparte recetas deliciosas.</strong><br>
